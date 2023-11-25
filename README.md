@@ -39,3 +39,11 @@
 
 # Q10. browserslist in package.json?
 # A10. Parcel uses this for Compatibility with browsers (can be customized according to the countries, browsers, specific versions of browsers, etc)
+
+# Q11. Babel is an npm package (or library) used to transpile JSX code to React.CreateElement() which further gets convert to JS so that the browser can understand it. Babel also transpiles ES6 code for older versions of browsers.
+
+# JSX => React.CreateElement() => ReactElement (i.e. JS Object) => HTML Element (when we use render function on JS object)
+# JSX is not HTML in JavaScript, it just has similar syntax to HTML or XML
+
+# Q12. What is Component Composition?
+# A12. Wrapping a component inside another component is Component Composition.
